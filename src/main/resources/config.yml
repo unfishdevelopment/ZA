@@ -1,0 +1,60 @@
+### ###### ### ### #### ### ## ###
+#
+# _______________                   /\
+#               /                  /  \
+#              /                  /    \
+#             /                  /      \
+#            /                  /        \
+#           /                  /          \
+#          /                  / ___________\
+#         /                  /              \
+#        /                  /_______________\         is developed by unfishmc
+#       /                  /                 \
+#      /                  /                   \
+#     /                  /                     \
+#    ---------------    /                       \
+# A vietnamese plugin,
+#                             but i'm lazy so I don't create a language file :0
+# zombies can:
+# 1.0 Update:
+# Some zombie abilities settings
+place_block: true
+break_block: true
+run_faster: true
+not_burn_in_day: true
+attack_stronger: true
+pickup_all_items: true
+# 2.0 Update:
+# | # creeper
+creeper: true
+# explosion radius setting for creepers
+radius: 5
+# creeper explodes immediately when it see a player
+explode_immediately: true
+# the explosion of a creeper make a burn
+fire: true
+# if this setting is set to true, creeper will be a charged creeper when it prepares to explode
+charge: false
+#zombie
+invisible: true
+# percent to a zombie to be invisible 0 - 100
+percent: 50
+#true if zombie cannot break that block, false is opposite
+cobblestone: true
+obsidian: false
+glass: true
+iron_bars: false
+stonebricks: true
+brick: false
+#Water bar
+#enable or disable water bar
+water_bar: false
+#title setting for water bar
+title: '&bThanh nước'
+# water bar updating, in minutes
+update: 3
+#3.0 Update:
+# Enable expansions?
+expansions: false
+
+

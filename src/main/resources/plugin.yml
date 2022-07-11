@@ -1,0 +1,10 @@
+name: ZombieApocalypse
+version: '${project.version}'
+main: io.unfish.zombieapocalypse.Main
+api-version: 1.14
+softdepend: [ EssentialsX ]
+authors: [ unfish ]
+description: Create a zombie apocalypse in minecraft world
+commands:
+  za:
+    description: to do every command of Za plugin

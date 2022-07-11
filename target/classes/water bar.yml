@@ -1,0 +1,25 @@
+#This config file for water bar is only used when water bar option in config.yml of Za plugin set to enable
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#A list of users who entered game and has got water bars
+user_list:
+  - md_5
+  - UNFISHMC
+
+
+#Remember, don't change anything in this!
+
+
+bar_status:
+  UNFISHMC: 20.0
+  md_5: 20.0
